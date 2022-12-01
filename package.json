@@ -2,13 +2,23 @@
   "name": "stellar-labs-pack",
   "displayName": "Stellar Labs Pack",
   "description": "This is my daily setup extension pack :3",
-  "version": "0.0.1",
+  "version": "0.0.1", 
+  "publisher":"faithgel",
+  "author": {
+    "name": "Faithgel"
+  },
+  "homepage": "https://github.com/Faithgel/stellar-labs-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faithgel/stellar-labs-pack.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": ["extension", "pack", "stellar", "labs", "faithgel"],
   "extensionPack": [ 
     "aaron-bond.better-comments", 
     "alexperronnet.spectrum-vscode-icons",
